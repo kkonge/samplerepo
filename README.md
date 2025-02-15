@@ -1,5 +1,4 @@
 # samplerepo
 explanation/ team topic
 
-변경된 파일입니다.
-
+이 파일은 변경됐습니다.
